@@ -7,6 +7,8 @@
 *.pdb
 *.vs
 *.VC.db
+*.a
+*.o
 build/bin/
 build/*.o
 build/*.log
@@ -29,3 +31,4 @@ tests/CDSChecker/model-checker/
 tests/relacy/freelist.exe
 tests/relacy/spmchash.exe
 tests/relacy/log.txt
+
